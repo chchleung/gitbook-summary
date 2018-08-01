@@ -24,7 +24,7 @@
   "author": "chchleung",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/imfly/sailsjs-docs-gitbook/issues"
+    "url": "https://github.com/chchleung/gitbook-summary/issues"
   },
   "engines": {
     "node": ">=4"
