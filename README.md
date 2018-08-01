@@ -8,6 +8,12 @@
 
 A command line tool to generate a `SUMMARY.MD` from a folder。[Demo](http://imfly.github.io/how-to-create-self-publishing-platform) [中文文档](http://imfly.github.io/how-to-create-self-publishing-platform/3-%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E8%87%AA%E5%B7%B1%E7%9A%84%E5%B9%B3%E5%8F%B0%EF%BC%9F/2-Summary%E7%9A%84%E4%BD%BF%E7%94%A8.html)
 
+
+## Fork content by lzc
+- 增加了 wiki_ignore选项， 在markdown文件头部加入 front-matter : wiki-ignore 则可以忽略目标md文件
+- 此功能可以在book.json中通过 'wiki-ignore': true 开启， 默认为false
+
+
 ## Features
 
 - Generate `SUMMARY.md` by using a CLI with some options
