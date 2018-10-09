@@ -13,6 +13,7 @@ A command line tool to generate a `SUMMARY.MD` from a folder。[Demo](http://imf
 - 增加了 wiki_ignore选项， 在markdown文件头部加入 front-matter : wiki-ignore 则可以忽略目标md文件
 - 此功能可以在book.json中通过 'wiki-ignore': true 开启， 默认为false
 
+- 修改了目录下readme.md的行为，如果readme的title作了定义，则目录名称跟着修改，而不是作为子文件  at 2018-10-09
 
 ## Features
 
