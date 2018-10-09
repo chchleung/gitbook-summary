@@ -1,6 +1,6 @@
 {
   "name": "gitbook-summary-lzc",
-  "version": "2.3.1",
+  "version": "2.3.2",
   "description": "A CLI to generate  a summary from a given folder.",
   "homepage": "https://github.com/chchleung/gitbook-summary",
   "bin": {
